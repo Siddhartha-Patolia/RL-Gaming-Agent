@@ -19,8 +19,7 @@ This repository provides a PyTorch implementation of the Deep Q-Network (DQN) al
 
 - `main.py`: Main training script for DQN on Atari environments.
 - `test.py`: Evaluation script to test trained models and optionally record performance videos.
-- `runs/`: Folder where logs, saved models, and evaluation results are stored.
-- `videos/`: Folder where videos from evaluation are saved (if enabled).
+- `results/`: Folder where videos from evaluation are saved (if enabled).
 
 ---
 
